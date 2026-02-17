@@ -1,0 +1,13 @@
+TODO:
+
+[x] Walk through web app TF config
+[x] backend + provider config
+[x] EC2 instances
+[x] S3 Bucket
+[x] VPC
+[x] Subnet
+[x] Security groups + rules
+[x] Application load balancer
+[x] ALB target group + attachment
+[x] Route 53 zone + record
+[x] RDS instance
